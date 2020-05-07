@@ -1,0 +1,98 @@
+German,English,Type,Attributes,sergio_establo
+der Bahnhof,железнодорожный вокзал,Noun,m,0/4
+der Euro,евро,Noun,m,0/4
+der Flughafen,аэропорт,Noun,m,0/4
+die Post,почта,Noun,f,0/4
+das Hotel,гостиница,Noun,n,0/4
+das Taxi,такси,Noun,n,0/4
+Guten Tag!,Добрый день!,Phrase,-,0/4
+Auf Wiedersehen.,До свидания.,Phrase,-,0/4
+"Zum Bahnhof, bitte.","До железнодорожного вокзала, пожалуйста.",Phrase,-,0/4
+"Zum Flughafen, bitte.","До аэропорта, пожалуйста.",Phrase,-,0/4
+"Zur Post, bitte.","До почты, пожалуйста.",Phrase,-,0/4
+"Zum Hotel, bitte.","До гостиницы, пожалуйста.",Phrase,-,0/4
+Gern.,С удовольствием.,Phrase,-,0/4
+Das macht 10 Euro,Это стоит 10 евро.,Phrase,-,0/4
+"Hier, bitte.","Вот, пожалуйста.",Phrase,-,0/4
+Danke.,Спасибо.,Phrase,-,0/4
+der Zug,поезд,Noun,m,0/4
+das Gleis,железнодорожный путь,Noun,n,0/4
+die Tasche,сумка,Noun,f,0/4
+Entschuldigung.,Простите.,Phrase,-,0/4
+"Ja, bitte?","Да, пожалуйста?",Phrase,-,0/4
+Wann fährt ein Zug nach London ab?,Когда отправляется поезд в Лондон?,Phrase,-,0/4
+Um elf Uhr.,В одиннадцать часов.,Phrase,-,0/4
+Um fünf vor elf.,Без пяти одиннадцать.,Phrase,-,0/4
+Um zehn nach elf.,В десять минут двенадцатого.,Phrase,-,0/4
+Gleis sechs.,Шестой путь.,Phrase,-,0/4
+"Wie spät ist es, bitte?","Скажите, пожалуйста, который час?",Phrase,-,0/4
+Es ist zehn Uhr.,Десять часов.,Phrase,-,0/4
+Moment!,Минуточку!,Phrase,-,0/4
+Ihre Tasche.,Ваша сумка.,Phrase,-,0/4
+"Hier, Ihre Tasche bitte.","Вот Ваша сумка, пожалуйста.",Phrase,-,0/4
+Danke schön.,Большое спасибо.,Phrase,-,0/4
+Das ist aber sehr nett.,Очень мило с Вашей стороны.,Phrase,-,0/4
+Gute Reise!,Счастливого пути!,Phrase,-,0/4
+Russland,Россия,Noun,-,0/4
+Polen,Польша,Noun,-,0/4
+Deutschland,Германия,Noun,-,0/4
+Frankreich,Франция,Noun,-,0/4
+Spanien,Испания,Noun,-,0/4
+Marokko,Марокко,Noun,-,0/4
+Algerien,Алжир,Noun,-,0/4
+die Türkei,Турция,Noun,-,0/4
+Syrien,Сирия,Noun,-,0/4
+Indien,Индия,Noun,-,0/4
+China,Китай,Noun,-,0/4
+Thailand,Тайланд,Noun,-,0/4
+Wie geht es Ihnen?,Как Ваши дела?,Phrase,-,0/4
+"Danke, gut.","Хорошо, спасибо.",Phrase,-,0/4
+"Auch gut, danke.","Тоже хорошо, спасибо.",Phrase,-,0/4
+Das ist Herr Krause.,Это господин Краузе.,Phrase,-,0/4
+Darf ich vorstellen?,Разрежите представить.,Phrase,-,0/4
+Freut mich.,Очень рад.,Phrase,-,0/4
+Angenehm.,Очень приятно.,Phrase,-,0/4
+Woher kommen Sie?,Откуда Вы?,Phrase,-,0/4
+Ich komme aus Großbritannien.,Я из Великобритании,Phrase,-,0/4
+Wie schön.,Как хорошо.,Phrase,-,0/4
+kommen,приходить,Verb,- komme kommst kommt kommen kommt kommen,0/4
+dürfen,мочь,Verb,- darf darfst darf dürfen dürft dürfen,0/4
+der Apfelsaft,яблочный сок,Noun,m,0/4
+das Hähnchen.,курица,Noun,n,0/4
+die Pommes frites,картофель фри,Noun,f,0/4
+das Brötchen,булочка,Noun,n,0/4
+der Kaffee,кофе,Noun,m,0/4
+der Salat,салат,Noun,m,0/4
+das Eis,мороженное,Noun,n,0/4
+die Suppe,суп,Noun,f,0/4
+Was möchten Sie essen?,Что вы желаете поесть?,Phrase,-,0/4
+Was möchten Sie trinken?,Что вы желаете выпить?,Phrase,-,0/4
+Ich hätte gern einen Kaffee.,"Мне, пожалуйста, кофе.",Phrase,-,0/4
+Ich hätte gern eine Suppe.,"Мне, пожалуйста, суп.",Phrase,-,0/4
+Ich hätte gern ein Eis.,"Мне, пожалуйста, мороженное.",Phrase,-,0/4
+Mit Pommes frites oder mit Brötchen?,С картофелем фри или булочкой?,Phrase,-,0/4
+Schmeckt es Ihnen?,Вкусно?,Phrase,-,0/4
+Es schmeckt sehr gut.,Это очень вкусно.,Phrase,-,0/4
+Guten Appetit!,Приятного аппетита!,Phrase,-,0/4
+Vielen Dank.,Большое спасибо.,Phrase,-,0/4
+die Nacht,ночь,Noun,f,0/4
+das Frühstück,завтрак,Noun,n,0/4
+das Doppelzimmer,двухместный номер,Noun,n,0/4
+das Einzelzimmer,одноместный номер,Noun,n,0/4
+das Bad,ванная комната,Noun,n,0/4
+die Dusche,душ,Noun,f,0/4
+die Toilette,туалет,Noun,f,0/4
+der Fernseher,телевизор,Noun,m,0/4
+der Internetanschluss,подключение к Интернету,Noun,m,0/4
+Haben Sie ein Zimmel frei?,У вас есть свободный номер?,Phrase,-,0/4
+Wir hätten gern ein Doppelzimmer.,"Нам, пожалуйста, один двухместный номер.",Phrase,-,0/4
+Ich hätte gern ein Einzelzimmer.,"Мне, пожалуйста, один одноместный номер.",Phrase,-,0/4
+Für eine Nacht?,На одну ночь?,Phrase,-,0/4
+"Nein, für zwei Nächte.","Нет, на две ночи.",Phrase,-,0/4
+Mit oder ohne Frühstück?,С завтраком или без завтрака?,Phrase,-,0/4
+Lieber mit Frühstück.,Лучше с завтраком.,Phrase,-,0/4
+Das kostet 80 Euro.,Это стоит 80 евро.,Phrase,-,0/4
+Gut. Das nehmen wir.,Хорошо. Мы берем это.,Phrase,-,0/4
+Guten Abend.,Добрый вечер.,Phrase,-,0/4
+Gute Nacht.,Спокойной ночи.,Phrase,-,0/4
+Schlafen Sie gut.,Хороших снов.,Phrase,-,0/4
